@@ -1,5 +1,7 @@
 # Quick Reply Selector App
 
+![image](https://github.com/user-attachments/assets/8d8d1ce6-e43a-4ee6-8d6a-4097cbdbc34e)
+
 A responsive web application that allows users to quickly select and insert pre-defined replies into a message box.
 
 ## Features
